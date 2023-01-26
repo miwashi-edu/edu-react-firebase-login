@@ -1,5 +1,7 @@
 # edu-react-firebase-login
 
+[Tutorial](https://blog.logrocket.com/user-authentication-firebase-react-apps/)
+
 ## Instruktioner
 
 ```bash
